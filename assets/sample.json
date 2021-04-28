@@ -1,0 +1,30 @@
+[
+    {
+      "name": "fujisawa",
+      "status": "OUT"
+    },
+    {
+      "name": "murakami",
+      "status": "IN"
+    },
+    {
+      "name": "fujisawa",
+      "status": "IN"
+    },
+    {
+      "name": "kishi",
+      "status": "IN"
+    },
+    {
+      "name": "shimizu",
+      "status": "IN"
+    },
+    {
+      "name": "aoki",
+      "status": "IN"
+    },
+    {
+      "name": "ito",
+      "status": "IN"
+    }
+  ]
